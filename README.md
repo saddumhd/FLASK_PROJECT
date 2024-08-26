@@ -1,5 +1,3 @@
 # FLASK_PROJECT
 ....
-.
-
 
